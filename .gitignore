@@ -1,2 +1,4 @@
 *.csv
 project-5.ipynb
+.venv/
+venv/
